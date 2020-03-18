@@ -1,0 +1,2 @@
+Il est très important que votre enfant tienne bien son crayon pour toutes les activités de graphisme et d'écriture. Pour cela, le crayon est tenu par la pince formée par le pouce et l'index et repose sur le majeur. 
+Pour illustrer cela je leur ai proposé un parallèle avec une voiture contenant 5 occupants. Sur ce lien vous trouverez la vidéo qui explique la bonne tenue du crayon : https://youtu.be/uYpuB2lL3ww
