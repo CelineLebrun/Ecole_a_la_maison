@@ -8,7 +8,7 @@ Ce fichier contient les diverses instructions permettant d'utiliser cette platef
 ## Instructions
 
 ### Navigation entre les fichiers
-
+Pour acceder aux documents sur un ordianteur, cliquer sur le dossier voulu. Pour revenir dans le dossier cliquer en haut sur le nom du dossier. Pour revenir à la page d'accueil, vous pouvez faire de même ou cliquer sur les deux points au dessus de la liste de documents.
+Pour acceder aux documents sur un téléphone, cliquer d'abord sur view code pour voir tous les dossiers. Procéder ensuite de la même façon que sur l'odinateur.
 ### Téléchargement des fichiers
-
-### Information sur les mises à jours
+Pour voir un document, cliquez dessus, il s'affichera en bas de page. Pour le télécharger, cliquer sur le bouton download en haut du document.
